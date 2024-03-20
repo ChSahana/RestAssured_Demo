@@ -6,7 +6,7 @@
       <classes>
       <class name="pk_spreecom.Create_Address_And_Delete_Address_Through_UI"/>
       <class name="pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function"/>
-       <class name="pk_hraphQL.GraphQL_QueryTest"/>
+       <class name="pk_graphQL.GraphQL_QueryTest"/>
       
       </classes>
   </test> <!-- Test -->    
