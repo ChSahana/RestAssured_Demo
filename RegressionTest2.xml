@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite parallel="false" name="Practice Suite">
+  <test name="Test Basics 1">
+ 
+      <classes>
+      <class name="pk_spreecom.Create_Address_And_Delete_Address_Through_UI"/>
+      <class name="pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function"/>
+       <class name="pk_hraphQL.GraphQL_QueryTest"/>
+      
+      </classes>
+  </test> <!-- Test -->    
+   
+ 
+</suite> <!-- Suite -->
