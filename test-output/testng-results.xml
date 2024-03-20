@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T14:59:45 IST" name="Practice Suite" finished-at="2024-03-20T15:00:20 IST" duration-ms="34509">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T14:59:45 IST" name="Test Basics 1" finished-at="2024-03-20T15:00:20 IST" duration-ms="34509">
+      <class name="pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function">
+        <test-method signature="Create_Address()[pri:1, instance:pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function@2f7298b]" started-at="2024-03-20T15:00:13 IST" name="Create_Address" finished-at="2024-03-20T15:00:15 IST" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Address -->
+        <test-method signature="deleteAddress()[pri:0, instance:pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function@2f7298b]" started-at="2024-03-20T15:00:15 IST" name="deleteAddress" finished-at="2024-03-20T15:00:18 IST" depends-on-methods="pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function.Create_Address" duration-ms="2653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddress -->
+        <test-method signature="Update_Address()[pri:2, instance:pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function@2f7298b]" started-at="2024-03-20T15:00:18 IST" name="Update_Address" finished-at="2024-03-20T15:00:20 IST" duration-ms="2019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_Address -->
+      </class> <!-- pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function -->
+      <class name="pk_spreecom.Create_Address_And_Delete_Address_Through_UI">
+        <test-method signature="Create_Address()[pri:1, instance:pk_spreecom.Create_Address_And_Delete_Address_Through_UI@c33b74f]" started-at="2024-03-20T14:59:45 IST" name="Create_Address" finished-at="2024-03-20T14:59:50 IST" duration-ms="4139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Address -->
+        <test-method signature="Update_Address()[pri:2, instance:pk_spreecom.Create_Address_And_Delete_Address_Through_UI@c33b74f]" started-at="2024-03-20T14:59:50 IST" name="Update_Address" finished-at="2024-03-20T14:59:52 IST" duration-ms="2145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_Address -->
+        <test-method signature="deleteAddress_UI()[pri:3, instance:pk_spreecom.Create_Address_And_Delete_Address_Through_UI@c33b74f]" started-at="2024-03-20T14:59:52 IST" name="deleteAddress_UI" finished-at="2024-03-20T15:00:13 IST" duration-ms="21353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddress_UI -->
+      </class> <!-- pk_spreecom.Create_Address_And_Delete_Address_Through_UI -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>

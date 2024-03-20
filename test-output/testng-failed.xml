@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Practice Suite]">
+  <test thread-count="5" name="Test Basics 1(failed)">
+    <classes>
+      <class name="pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function">
+        <methods>
+          <include name="Update_Address"/>
+        </methods>
+      </class> <!-- pk_spreecom.Create_Address_And_Update_Address_Using_File_with_Util_Function -->
+    </classes>
+  </test> <!-- Test Basics 1(failed) -->
+</suite> <!-- Failed suite [Practice Suite] -->
